@@ -6,7 +6,6 @@ YOLOv8
 **Project Overview**
 ---
 This project demonstrates advanced computer vision techniques using Ultralytics YOLOv8 for two distinct applications: trash object detection and plant disease segmentation. The research focuses on implementing state-of-the-art deep learning models for image analysis and detection.
-Contributors
 
 ---
 
